@@ -9,3 +9,8 @@ for x in range(11) :
 print("1부터 10까지 더한값은", sum, "이다")
 
 print("Developer B")
+
+def calc_area(x, y):
+    result = x * y
+    return result
+
