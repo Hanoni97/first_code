@@ -7,3 +7,5 @@ for x in range(11) :
     sum += x
 
 print("1부터 10까지 더한값은", sum, "이다")
+
+print("Developer B")
